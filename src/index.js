@@ -75,12 +75,12 @@ function getUserName() {
 
 // Returns true if a user is signed-in.
 function isUserSignedIn() {
-  // TODO 6: Return true if a user is signed-in.
+  // TODO 6: Return true if a user is signed- in    .
 }
 
 // Saves a new message on the Cloud Firestore.
 async function saveMessage(messageText) {
-  // TODO 7: Push a new message to Cloud Firestore.
+  // TODO 7: Push a new message to Cloud FireStore.
 }
 
 // Loads chat messages history and listens for upcoming ones.
